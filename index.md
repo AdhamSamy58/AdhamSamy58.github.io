@@ -1,60 +1,113 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adham Ahmed Samy - CV</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Adham Ahmed Samy</h1>
-        <p>Software Engineer</p>
-        <p>Nasr City, Cairo, Egypt</p>
-        <p><a href="mailto:adham.samy099@gmail.com">adham.samy099@gmail.com</a> | +201115566660</p>
-        <p><a href="https://www.linkedin.com/in/adham-samy99/" target="_blank">LinkedIn</a> | <a href="https://github.com/AdhamSamy58" target="_blank">GitHub</a></p>
-    </header>
+# Adham Ahmed Samy
+**Software Engineer**  
+Nasr City, Cairo, Egypt  
++201115566660 | [adham.samy099@gmail.com](mailto:adham.samy099@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/adham-samy99/) | [GitHub](https://github.com/AdhamSamy58)  
 
-    <section>
-        <h2>Summary</h2>
-        <p>Highly motivated and goal-oriented with passion, commitment, and eagerness to learn and improve. Looking for an internship, part-time, or full-time job.</p>
-    </section>
+---
 
-    <section>
-        <h2>Education</h2>
-        <p><strong>Bachelor of Computer Science</strong>, Ain Shams University - 2020 to 2024</p>
-        <p>GPA: 3.34 (B+)</p>
-        <p><strong>General Secondary Egyptian Certificate (Math)</strong>, Green Heights Language School - 2017 to 2020</p>
-    </section>
+## Summary
+Highly motivated and goal-oriented with passion, commitment, and eagerness to learn and improve, majoring in Computer Science.  
+Looking for an internship, part-time, or full-time job. Avid technology learner in multiple fields (Machine learning, OOP, IoT, Web Development, Cyber Security, Algorithm Design, Problem-Solving).  
+Good communicator with multiple volunteering experiences and soft skills helping positions.
 
-    <section>
-        <h2>Technical Skills</h2>
-        <ul>
-            <li>Python, C++, Java, TypeScript, HTML/CSS</li>
-            <li>Flutter (Dart), PL/SQL, Machine Learning</li>
-            <li>Object-Oriented Programming, Algorithm Design, Data Structures</li>
-        </ul>
-    </section>
+---
 
-    <section>
-        <h2>Projects</h2>
-        <ul>
-            <li><strong>La Maison</strong> - Mini Amazon app using Java and Android Studio (<a href="https://github.com/AdhamSamy58/La-Maison">GitHub</a>)</li>
-            <li><strong>Dijkstra Shortest Path</strong> - C++ implementation (<a href="https://github.com/AdhamSamy58/Dijkstra-shortest-path">GitHub</a>)</li>
-            <li><strong>Blackjack Game</strong> - Java OOP and GUI (<a href="https://github.com/AdhamSamy58/BlackJack">GitHub</a>)</li>
-        </ul>
-    </section>
+## Education
+**Bachelor of Computer Science**  
+Faculty of Computer and Information Science, Ain Shams University  
+*GPA: 3.34 (B+)*  
+2020 – 2024, Cairo, Egypt
 
-    <section>
-        <h2>Experience</h2>
-        <ul>
-            <li><strong>Head of Organizational Development</strong>, Vision Club ASU (2022-Present)</li>
-            <li><strong>Public Relations Specialist</strong>, Robotech (2021-2023)</li>
-        </ul>
-    </section>
-</body>
-</html>
+**General Secondary Egyptian Certificate (Math)**  
+Green Heights Language School  
+2017 – 2020, New Cairo, Egypt
 
+---
+
+## Languages
+- **Arabic**: Mother Tongue  
+- **English**: B2-C1  
+- **French**: A2  
+- **German**: A2
+
+---
+
+## Technical Skills
+- Python, C++, Java, TypeScript (JavaScript), Flutter (Dart), HTML, CSS
+- Object-Oriented Programming, Data Structures, Algorithm Design, Pattern Recognition
+- PL/SQL, Machine Learning, Data Mining, Dynamic Programming
+- Problem Solving
+
+---
+
+## Projects
+- **[La Maison](https://github.com/AdhamSamy58/La-Maison)**  
+  Mini Amazon Android application replica using Java and Android Studio to showcase Android Studio capabilities.  
+  *2023*
+
+- **[Dijkstra Shortest Path](https://github.com/AdhamSamy58/Dijkstra-shortest-path)**  
+  Implemented Dijkstra's algorithm in C++ to find the shortest path in weighted and non-weighted graphs.  
+  *2022*
+
+- **[Blackjack Game](https://github.com/AdhamSamy58/BlackJack)**  
+  Replicated Blackjack using Java and OOP concepts with a GUI.  
+  *2022*
+
+- **[AI Loan Predictor](https://github.com/AdhamSamy58/Loan-Prediction-AI)**  
+  AI classifier using models like SVM, Logistic Regression, Naive Bayes, Decision Tree, and KNN to predict loan approvals using Python.  
+  *2022*
+
+- **Database Project**: Employment connection management system.  
+  *2022*
+
+- **[Chess](https://github.com/AdhamSamy58/Chess-game)**  
+  Replicated the classic chess game using C++, structured programming, and OOP concepts.  
+  *2021*
+
+- **Smart Home**  
+  Designed and built a smart home maquette using Arduino, IoT, and Google Assistant.  
+  *2021*
+
+---
+
+## Experience & Volunteering
+- **Head of Organizational Development**, Vision Club ASU  
+  Managed the OD department, conducted assessments to identify areas for improvement, oversaw various events, and integrated new members.  
+  *11/2022 – Present*
+
+- **Team Moderator**, AFP X Vision Club  
+  Moderated a financial crisis case study in collaboration with the Association For Financial Professionals, demonstrating adaptability and fast learning.  
+  *02/2024*
+
+- **Public Relations Specialist**, Robotech  
+  Led the LinkedIn team, wrote posts, built Robotech's LinkedIn profile, organized events, and raised awareness about IoT.  
+  *10/2021 – 12/2023*
+
+- **Co-Team Leader**, ASU Career Center  
+  Managed the ASU Employment Fair '23 with 6000 attendees across two days from 9 colleges, outperforming previous events.  
+  *2022 – 03/2023*
+
+- **Team Leader**, Vision Case Study  
+  Led a financial and budget strategy case study that placed 3rd in a competition of 21 student activities.  
+  *01/2023 – 02/2023*
+
+- **Student Union Member**, FCIS Student Union  
+  Managed sporting events like College League, Dean's Cup, Sports Day, and Valorant League.  
+  *2022 – 2023*
+
+- **Cybersecurity Specialist**, Microsoft Student Partner  
+  Shared knowledge about cybersecurity principles.  
+  *2021*
+
+---
+
+## Certifications & Links
+- **Temporarily Exempted from Military Service**
+- [Instagram](https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+- [Career Week 22](https://github.com/AdhamSamy58/Career_week_22)
+- [Vision Case Study](https://github.com/AdhamSamy58/Vision-case-study)
+- [FCIS Student Union](https://www.facebook.com/FCIS.StudentUnion)
 
 
 
