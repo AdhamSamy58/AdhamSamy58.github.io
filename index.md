@@ -14,8 +14,8 @@ Highly motivated and goal-oriented with passion, commitment, and eagerness to le
 ## Education
 **Bachelor of Computer Science**  
 Faculty of Computer and Information Science, Ain Shams University  
-*GPA: 2.773 (B-)*  
-*GP Grade:(B+)*  
+*GPA: **2.773 (B-)***  
+*GP Grade:(**B+**)*  
 2020 – 2024, Cairo, Egypt
 
 **General Secondary Egyptian Certificate (Math)**  
