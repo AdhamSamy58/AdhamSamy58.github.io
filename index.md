@@ -75,8 +75,8 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
 
 ## Experience & Volunteering
 - **[YLF Finalist](https://www.facebook.com/photo/?fbid=845985367664276&set=pcb.845989794330500)**,  
-  **Technology specialist** and **website creator** which helped my team reach the final phase of the YLF student activity competition in human development scope.  
-  **Booth pitcher** which held **25%** of the total marks.  
+  - **Technology specialist** and **website creator** which helped my team reach the final phase of the YLF student activity competition in human development scope.  
+  - **Booth pitcher** which held **25%** of the total marks.  
   *06/2024 – 09/2024*
 
 
