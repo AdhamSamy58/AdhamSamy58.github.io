@@ -75,7 +75,7 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
 ---
 
 ## Experience & Volunteering
-- **[YLF Finalist](https://www.facebook.com/photo/?fbid=845985367664276&set=pcb.845989794330500)**
+- **[YLF Finalist](https://www.facebook.com/photo/?fbid=845985367664276&set=pcb.845989794330500)**, YOUNG
   Member of Vision Club's team for the final of the YLF student activity competition in the human development scope where we developed YOUNG a sustainable entrepreneurial organization that aims to bridge the gap between young entrepreneurs and market experts. 
   *06/2024 – 09/2024*
 
