@@ -75,12 +75,12 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
 ---
 
 ## Experience & Volunteering
-- **YLF Finalist(https://www.facebook.com/photo/?fbid=845985367664276&set=pcb.845989794330500)**
+- **[YLF Finalist](https://www.facebook.com/photo/?fbid=845985367664276&set=pcb.845989794330500)**
   Member of Vision Club's team for the final of the YLF student activity competition in the human development scope where we developed YOUNG a sustainable entrepreneurial organization that aims to bridge the gap between young entrepreneurs and market experts. 
   *06/2024 – 09/2024*
 
 
-- **Head of Organizational Development(https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)**, Vision Club ASU  
+- **[Head of Organizational Development](https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)**, Vision Club ASU  
   Managed the OD department, conducted assessments to identify areas for improvement, oversaw various events, and integrated new members.  
   *11/2022 – 07/2024*
 
@@ -100,7 +100,7 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
   Led a financial and budget strategy case study that placed 3rd in a competition of 21 student activities.  
   *01/2023 – 02/2023*
 
-- **Student Union Member(https://www.facebook.com/FCIS.StudentUnion)**, FCIS Student Union  
+- **[Student Union Member](https://www.facebook.com/FCIS.StudentUnion)**, FCIS Student Union  
   Managed sporting events like College League, Dean's Cup, Sports Day, and Valorant League.  
   *2022 – 2023*
 
@@ -108,13 +108,15 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
   Shared knowledge about cybersecurity principles.  
   *2021*
 
----
 
-## Certifications & Links
+<!-- --- -->
+
+<!-- ## Certifications & Links -->
 <!-- - [Instagram](https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) -->
 <!-- - [Career Week 22](https://github.com/AdhamSamy58/Career_week_22) -->
 <!-- - [Vision Case Study](https://github.com/AdhamSamy58/Vision-case-study) -->
-- [FCIS Student Union](https://www.facebook.com/FCIS.StudentUnion)
+<!-- - [FCIS Student Union](https://www.facebook.com/FCIS.StudentUnion) -->
+
 
 
 
