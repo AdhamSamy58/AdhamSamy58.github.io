@@ -15,7 +15,7 @@ Looking for an internship, part-time, or full-time job. Avid technology learner 
 ## Education
 **Bachelor of Computer Science**  
 Faculty of Computer and Information Science, Ain Shams University  
-*GPA: 3.34 (B+)*  
+*GPA: 2.773 (B-)*  
 2020 – 2024, Cairo, Egypt
 
 **General Secondary Egyptian Certificate (Math)**  
