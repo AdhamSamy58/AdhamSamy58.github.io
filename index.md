@@ -2,14 +2,13 @@
 **Software Engineer**  
 Nasr City, Cairo, Egypt  
 +201115566660 | [adham.samy099@gmail.com](mailto:adham.samy099@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/adham-samy99/) | [GitHub](https://github.com/AdhamSamy58)  
+[LinkedIn](https://www.linkedin.com/in/adham-samy99/) | [GitHub](https://github.com/AdhamSamy58)|Temporarily Exempted from Military Service
 
 ---
 
 ## Summary
 Highly motivated and goal-oriented with passion, commitment, and eagerness to learn and improve, majoring in Computer Science.  
-Looking for an internship, part-time, or full-time job. Avid technology learner in multiple fields (Machine learning, OOP, IoT, Web Development, Cyber Security, Algorithm Design, Problem-Solving).  
-Good communicator with multiple volunteering experiences and soft skills helping positions.
+Looking for an internship, part-time, or full-time job. Avid technology learner in multiple fields (Machine learning, OOP, IoT, Web Development, Cyber Security, Algorithm Design, Problem-Solving). Good communicator with multiple volunteering experiences and soft skills helping positions.
 
 ---
 
@@ -34,14 +33,18 @@ Green Heights Language School
 ---
 
 ## Technical Skills
-- Python, C++, Java, TypeScript (JavaScript), Flutter (Dart), HTML, CSS
+- Python, C++, Java, TypeScript (JavaScript), Flutter (Dart), HTML, CSS, PL/SQL
 - Object-Oriented Programming, Data Structures, Algorithm Design, Pattern Recognition
-- PL/SQL, Machine Learning, Data Mining, Dynamic Programming
-- Problem Solving
+- Machine Learning, Data Mining, Dynamic Programming, Problem Solving
 
 ---
 
 ## Projects
+- **[ShopWeb (Graduation Project)](https://github.com/AdhamSamy58/e-commerce-platform)**  
+Developed ShopWeb, an e-commerce platform that simplifies online store creation with a one-click setup, customizable designs, and integrated payment. It reduces costs and technical barriers, empowering entrepreneurs to grow their businesses.
+  *06/2023 - 09/2024*
+
+
 - **[La Maison](https://github.com/AdhamSamy58/La-Maison)**  
   Mini Amazon Android application replica using Java and Android Studio to showcase Android Studio capabilities.  
   *2023*
@@ -72,13 +75,18 @@ Green Heights Language School
 ---
 
 ## Experience & Volunteering
-- **Head of Organizational Development**, Vision Club ASU  
+- **YLF Finalist(https://www.facebook.com/photo/?fbid=845985367664276&set=pcb.845989794330500)**
+  Member of Vision Club's team for the final of the YLF student activity competition in the human development scope where we developed YOUNG a sustainable entrepreneurial organization that aims to bridge the gap between young entrepreneurs and market experts. 
+  *06/2024 – 09/2024*
+
+
+- **Head of Organizational Development(https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)**, Vision Club ASU  
   Managed the OD department, conducted assessments to identify areas for improvement, oversaw various events, and integrated new members.  
-  *11/2022 – Present*
+  *11/2022 – 07/2024*
 
 - **Team Moderator**, AFP X Vision Club  
   Moderated a financial crisis case study in collaboration with the Association For Financial Professionals, demonstrating adaptability and fast learning.  
-  *02/2024*
+  *01/2024 - 03/2024*
 
 - **Public Relations Specialist**, Robotech  
   Led the LinkedIn team, wrote posts, built Robotech's LinkedIn profile, organized events, and raised awareness about IoT.  
@@ -86,13 +94,13 @@ Green Heights Language School
 
 - **Co-Team Leader**, ASU Career Center  
   Managed the ASU Employment Fair '23 with 6000 attendees across two days from 9 colleges, outperforming previous events.  
-  *2022 – 03/2023*
+  *10/2022 – 03/2023*
 
 - **Team Leader**, Vision Case Study  
   Led a financial and budget strategy case study that placed 3rd in a competition of 21 student activities.  
   *01/2023 – 02/2023*
 
-- **Student Union Member**, FCIS Student Union  
+- **Student Union Member(https://www.facebook.com/FCIS.StudentUnion)**, FCIS Student Union  
   Managed sporting events like College League, Dean's Cup, Sports Day, and Valorant League.  
   *2022 – 2023*
 
@@ -103,10 +111,9 @@ Green Heights Language School
 ---
 
 ## Certifications & Links
-- **Temporarily Exempted from Military Service**
-- [Instagram](https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-- [Career Week 22](https://github.com/AdhamSamy58/Career_week_22)
-- [Vision Case Study](https://github.com/AdhamSamy58/Vision-case-study)
+<!-- - [Instagram](https://www.instagram.com/p/CwVuozdtMpd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) -->
+<!-- - [Career Week 22](https://github.com/AdhamSamy58/Career_week_22) -->
+<!-- - [Vision Case Study](https://github.com/AdhamSamy58/Vision-case-study) -->
 - [FCIS Student Union](https://www.facebook.com/FCIS.StudentUnion)
 
 
