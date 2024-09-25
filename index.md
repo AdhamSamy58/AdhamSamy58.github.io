@@ -1,4 +1,4 @@
-# Adham Ahmed Samy
+<p style="text-align:center;"># Adham Ahmed Samy</p>
 **Software Engineer**  
 Nasr City, Cairo, Egypt  
 +201115566660 | [adham.samy099@gmail.com](mailto:adham.samy099@gmail.com)  
