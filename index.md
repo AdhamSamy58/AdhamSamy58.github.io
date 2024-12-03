@@ -78,8 +78,8 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
   Replicated the classic chess game using C++, structured programming, and OOP concepts.  
   
 
-- **Database Project**: Employment connection management system.  
-  
+- **Database Project**  
+  Employment connection management system.  
 
 - **Smart Home**  
   Designed and built a smart home maquette using Arduino, IoT, and Google Assistant.  
