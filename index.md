@@ -26,7 +26,7 @@ Green Heights Language School
 
 ## Professional Experience
 **METI**  
-Testing Specialist  *11/2024-12-2024*  
+Testing Specialist  *11/2024-12/2024*  
 - Conducted software testing using Git, GitHub, VS Code, and CMD, managing test cases across **13** unique scenarios.  
 - Reviewed and resolved Jira tickets to streamline workflows and maintain quality assurance.  
 - Contributed to delivering reliable, high-quality solutions aligned with METI’s innovative digital transformation standards.  
