@@ -49,7 +49,7 @@ Testing Specialist  *11/2024-12/2024*
 - **Machine Learning**: Machine Learning Models (SVM, Logistic Regression, Naive Bayes, Decision Tree, KNN)  
 - **Web Development**: HTML, CSS, JavaScript, Angular  
 - **Database Management**:  PL/SQL, MongoDB  
-- **FreGeneral Programming Proficiencies**: Problem Solving, Object-Oriented Programming  
+- **General Programming Proficiencies**: Problem Solving, Object-Oriented Programming  
 
 ---
 
