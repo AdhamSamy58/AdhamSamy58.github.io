@@ -1,5 +1,5 @@
 # Adham Ahmed Samy
-**Software Developer**  
+## Software Developer  
 Nasr City, Cairo, Egypt  
 +201115566660 | [adham.samy099@gmail.com](mailto:adham.samy099@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/adham-samy99/) | [GitHub](https://github.com/AdhamSamy58) | Temporarily Exempted from Military Service
