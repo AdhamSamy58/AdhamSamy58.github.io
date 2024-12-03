@@ -113,9 +113,9 @@ Developed ShopWeb, an e-commerce platform that simplifies online store creation 
   Led a financial and budget strategy case study that placed **3rd** in a competition of 21 student activities.  
   *01/2023 – 02/2023*
 
-- **[Student Union Member](https://www.facebook.com/FCIS.StudentUnion)**, FCIS Student Union  
-  Managed sporting events like College League, Dean's Cup, Sports Day, and Valorant League.  
-  *2022 – 2023*
+<!-- - **[Student Union Member](https://www.facebook.com/FCIS.StudentUnion)**, FCIS Student Union   -->
+  <!-- Managed sporting events like College League, Dean's Cup, Sports Day, and Valorant League.   -->
+  <!-- *2022 – 2023* -->
 
 - **Cybersecurity Specialist**, Microsoft Student Partner  
   Shared knowledge about cybersecurity principles.  
