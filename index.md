@@ -15,7 +15,7 @@ Cloud enthusiast and software developer with expertise in cloud technologies, so
 **Bachelor of Computer Science**  
 Faculty of Computer and Information Science, Ain Shams University  
 *GPA: **2.773 (B-)***  
-*GP Grade:(**B+**)*  
+*GP Grade: **(B+)***  
 2020 – 2024, Cairo, Egypt
 
 **General Secondary Egyptian Certificate (Math)**  
