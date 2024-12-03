@@ -1,5 +1,5 @@
 # Adham Ahmed Samy
-**Software Engineer**  
+**Software Developer**  
 Nasr City, Cairo, Egypt  
 +201115566660 | [adham.samy099@gmail.com](mailto:adham.samy099@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/adham-samy99/) | [GitHub](https://github.com/AdhamSamy58) | Temporarily Exempted from Military Service
@@ -7,7 +7,7 @@ Nasr City, Cairo, Egypt
 ---
 
 ## Summary
-Highly motivated and goal-oriented with passion, commitment, and eagerness to learn and improve, majoring in Computer Science. Looking for an internship, part-time, or full-time job. Avid technology learner in multiple fields (Machine learning, OOP, IoT, Web Development, Cyber Security, Algorithm Design, Problem-Solving). Good communicator with multiple volunteering experiences and soft skills helping positions.
+Cloud enthusiast and software developer with expertise in cloud technologies, software testing, and scalable solution development. Proficient in multiple tools, with experience in machine learning, cloud engineering, and web development. Skilled in problem-solving, project collaboration, and delivering high-quality results. Seeking a full-time role to contribute technical expertise and innovation in cloud computing and software engineering.  
 
 ---
 
@@ -24,19 +24,32 @@ Green Heights Language School
 
 ---
 
+## Professional Experience
+**METI**  
+Testing Specialist  *11/2024-12-2024*  
+- Conducted software testing using Git, GitHub, VS Code, and CMD, managing test cases across **13** unique scenarios.  
+- Reviewed and resolved Jira tickets to streamline workflows and maintain quality assurance.  
+- Contributed to delivering reliable, high-quality solutions aligned with METI’s innovative digital transformation standards.  
+
+---
+
 ## Languages
 - **Arabic**: Mother Tongue  
 - **English**: C1  
 - **German**: A2  
 - **French**: A2  
 
-
 ---
 
 ## Technical Skills
-- Python, C++, Java, TypeScript (JavaScript), Flutter (Dart), HTML, CSS, PL/SQL
-- Object-Oriented Programming, Data Structures, Algorithm Design, Pattern Recognition
-- Machine Learning, Data Mining, Dynamic Programming, Problem Solving
+- **Programming Languages**: C++, Python, Java, JavaScript (TypeScript), PL/SQL  
+- **Cloud and DevOps**: AWS Certified Cloud Practitioner  
+- **Frameworks and tools**: Git & GitHub, Angular Framework, Flutter (Dart), Android Studio, Jira, Slack  
+- **Data and Algorithm Skills**:  Data Structures, Algorithm Design, Dynamic Programming, Data Mining  
+- **Machine Learning**: Machine Learning Models (SVM, Logistic Regression, Naive Bayes, Decision Tree, KNN)  
+- **Web Development**: HTML, CSS, JavaScript, Angular  
+- **Database Management**:  PL/SQL, MongoDB  
+- **FreGeneral Programming Proficienciesnch**: Problem Solving, Object-Oriented Programming  
 
 ---
 
