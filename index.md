@@ -53,6 +53,12 @@ Testing Specialist  *11/2024-12/2024*
 
 ---
 
+## Certifications
+- **[AWS Certified Cloud Practioner CLF-C02](https://udemy-certificate.s3.amazonaws.com/pdf/UC-405b480a-8198-444f-8e8f-be498f8208af.pdf)**  
+  
+
+---
+
 ## Projects
 - **[ShopWeb (Graduation Project [B+])](https://github.com/AdhamSamy58/e-commerce-platform)**  
 Developed ShopWeb, an e-commerce platform that simplifies online store creation with a one-click setup, customizable designs, and integrated payment. It reduces costs and technical barriers, empowering entrepreneurs to grow their businesses.  
