@@ -24,8 +24,8 @@ Green Heights Language School
 ---
 
 ## Professional Experience
-**METI**  
-Testing Specialist  *11/2024-12/2024*  
+**Testing Specialist**  
+METI  *11/2024*  
 - Conducted software testing using Git, GitHub, VS Code, and CMD, managing test cases across **13** unique scenarios.  
 - Reviewed and resolved Jira tickets to streamline workflows and maintain quality assurance.  
 - Contributed to delivering reliable, high-quality solutions aligned with METI’s innovative digital transformation standards.  
@@ -42,6 +42,7 @@ Testing Specialist  *11/2024-12/2024*
 
 ## Technical Skills
 - **Programming Languages**: C++, Python, Java, JavaScript (TypeScript), PL/SQL  
+- **Testing**: ISTQB Foundation Level  
 - **Cloud and DevOps**: AWS Certified Cloud Practitioner  
 - **Frameworks and tools**: Git & GitHub, Angular Framework, Flutter (Dart), Android Studio, Jira, Slack  
 - **Data and Algorithm Skills**:  Data Structures, Algorithm Design, Dynamic Programming, Data Mining  
