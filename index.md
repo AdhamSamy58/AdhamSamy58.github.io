@@ -1,5 +1,4 @@
 # Adham Ahmed Samy
-## Software Developer  
 Nasr City, Cairo, Egypt  
 +201115566660 | [adham.samy099@gmail.com](mailto:adham.samy099@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/adham-samy99/) | [GitHub](https://github.com/AdhamSamy58) | Temporarily Exempted from Military Service
@@ -7,7 +6,7 @@ Nasr City, Cairo, Egypt
 ---
 
 ## Summary
-Cloud enthusiast and software developer with expertise in cloud technologies, software testing, and scalable solution development. Proficient in multiple tools, with experience in machine learning, cloud engineering, and web development. Skilled in problem-solving, project collaboration, and delivering high-quality results. Seeking a full-time role to contribute technical expertise and innovation in cloud computing and software engineering.  
+Software tester and Cloud enthusiast with expertise in software testing, cloud technologies, and scalable solution development. Proficient in multiple tools, with experience in software testing, machine learning, and cloud engineering. Skilled in problem-solving, project collaboration, and delivering high-quality results. Seeking a full-time role to contribute technical expertise and innovation in software testing and cloud computing.  
 
 ---
 
